@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 * Open ```main.py``` and edit
 ```
-youtube_playlist_link = "add_your_link_here"
+youtube_playlist_link = "add_your_playlist_link_here"
 ```
 
 * Run the following command
